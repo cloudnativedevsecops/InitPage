@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Datadog Monitoring',
+			icon: 'square-activity',
+			link: 'https://app.datadoghq.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Sharepoint',
+			icon: 'share-2',
+			link: 'https://saludangeles-my.sharepoint.com/personal/araceli_rodriguez_saludangeles_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Faraceli%5Frodriguez%5Fsaludangeles%5Fmx%2FDocuments%2FSitios%20Nuevo%20Equipo%202025%2FSeguridad&ga=1',
 		},
 	],
 
