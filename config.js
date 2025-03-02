@@ -92,9 +92,9 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'Gemini',
+			icon: 'bot-message-square',
+			link: 'https://gemini.google.com/app',
 		},
 		{
 			id: '2',
